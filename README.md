@@ -51,7 +51,7 @@ now, so a lot can change in future.
   * `design-color`: color of the editor
 
 ## Higlighting
- * Types:
+* Types:
   * Regex: Regex expression to match the string (all matches inside of it are removed)
   * Color: Predefined constant (see Colors)
 * Comments:
