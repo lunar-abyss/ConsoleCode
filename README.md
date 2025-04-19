@@ -43,7 +43,7 @@ now, so a lot can change in future.
   * <kbd>Escape</kbd>: Quit the editor
   * <kbd>Ctrl + W</kbd>: Switch window mode (Windowed -> Maximized (default) -> Fullscreen)
 
-* Config:
+## Config:
   * `extbind`: binding the highlighting files (`.ccs`) with extensions for auto open
   * `font-name`: font name
   * `font-size`: font size
