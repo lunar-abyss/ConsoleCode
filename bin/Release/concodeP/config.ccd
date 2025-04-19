@@ -1,0 +1,16 @@
+# config.ccd: configs of console code
+# don't forget to apply changes with ctrl + r
+# [r]: initiates executable restart
+
+# extension bindings
+extbinds:
+  ccd = concode-data.ccs
+  ccs = concode-syntax.ccs
+  
+# color of the top end bottom bar
+design-color: 7
+
+# [r] font properties
+font-name:   Consolas
+font-size:   26
+font-weight: 800

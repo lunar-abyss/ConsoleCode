@@ -105,9 +105,6 @@ namespace ConsoleCode
         ConcodePath = Selfpath + "\\concode";
       else
         ConcodePath = Selfpath;
-
-      Console.WriteLine(ConcodePath);
-      Console.ReadKey();
     }
 
     // fully initializes the console

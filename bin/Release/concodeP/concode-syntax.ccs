@@ -1,0 +1,5 @@
+# ccs files highlighting
+@regexpr $blue:        "\".*\""
+@palette $dark-yellow: "(?<!\\)\$.+?(?=:)"
+@comment $dark-gray:   "(?<!\\)\#.*(?=\n)"
+@wordtag $red:         "(?<!\\)\@[^\s]*"

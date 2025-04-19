@@ -1,0 +1,3 @@
+# ccd files highlighting
+@property $red:       "[\w-]+(?=:)"
+@comment  $dark-gray: "\#.*(?=\n|$)"
