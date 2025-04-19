@@ -1,7 +1,0 @@
-# petite basic highlighting for console code
-@keyword  $red:         "(?<=(\n|^) *)(let|if|goto|call|return)(?=\s|$)"
-@function $magenta:     "(?<=(\n|^) *)[^$\s]+(?=\s|$)"
-@number   $dark-cyan:   "(?<!\w)\d+(?!\w)"
-@operator $red:         "[+\-<>=/*\$]"
-@label    $dark-yellow: "(?<=(\n|^) *)[^\s]+ *(?=:)"
-@comment  $dark-gray:   "(?<=(\n|^) *)(.+?)rem.*(?=\n|$)"
