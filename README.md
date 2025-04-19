@@ -19,29 +19,29 @@ now, so a lot can change in future.
 
 ## Hotkeys
 * Functional:
-  * ~Ctrl + N~: New file
-  * ~Ctrl + O~: Open file
-  * ~Ctrl + S~: Save file
-  * ~Ctrl + H~: Open help file
-  * ~Ctrl + J~: Open config file
-  * ~Ctrl + R~: Reload config (may restart)
+  * <kbd>Ctrl + N</kbd>: New file
+  * <kbd>Ctrl + O</kbd>: Open file
+  * <kbd>Ctrl + S</kbd>: Save file
+  * <kbd>Ctrl + H</kbd>: Open help file
+  * <kbd>Ctrl + J</kbd>: Open config file
+  * <kbd>Ctrl + R</kbd>: Reload config (may restart)
   
 * Editing:
-  * ~Backspace~: Remove previous character
-  * ~Tab~: Tabulation (2 spaces)
-  * ~Ctrl + Left~: Long jump left (skips same kind characters)
-  * ~Ctrl + Right~: Long jump right
-  * ~Ctrl + Up~: Skip up until first empty (or with spaces) line
-  * ~Ctrl + Down~: Skip down
-  * ~Ctrl + Backspace~: Long remove
-  * ~Ctrl + Shift + Up~: Swap current line with the upper one
-  * ~Ctrl + Shift + Down~: Swap current line with the lower one
-  * ~Ctrl + C~: Copy current line
-  * ~Ctrl + V~: Paste line after current
+  * <kbd>Backspace</kbd>: Remove previous character
+  * <kbd>Tab</kbd>: Tabulation (2 spaces)
+  * <kbd>Ctrl + Left</kbd>: Long jump left (skips same kind characters)
+  * <kbd>Ctrl + Right</kbd>: Long jump right
+  * <kbd>Ctrl + Up</kbd>: Skip up until first empty (or with spaces) line
+  * <kbd>Ctrl + Down</kbd>: Skip down
+  * <kbd>Ctrl + Backspace</kbd>: Long remove
+  * <kbd>Ctrl + Shift + Up</kbd>: Swap current line with the upper one
+  * <kbd>Ctrl + Shift + Down</kbd>: Swap current line with the lower one
+  * <kbd>Ctrl + C</kbd>: Copy current line
+  * <kbd>Ctrl + V</kbd>: Paste line after current
   
 * Other:
-  * ~Escape~: Quit the editor
-  * ~Ctrl + W~: Switch window mode (Windowed -> Maximized (default) -> Fullscreen)
+  * <kbd>Escape</kbd>: Quit the editor
+  * <kbd>Ctrl + W</kbd>: Switch window mode (Windowed -> Maximized (default) -> Fullscreen)
 
 * Config:
   * `extbind`: binding the highlighting files (`.ccs`) with extensions for auto open
