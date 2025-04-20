@@ -69,10 +69,10 @@ namespace ConsoleCode
     static void Main(string[] args)
     {
       // setting up the program
-      ParseArgs(args);
       Paths();
       Config(true);
       Init();
+      ParseArgs(args);
 
       // main loop
       while (true) {
